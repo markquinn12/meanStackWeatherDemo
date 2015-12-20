@@ -29,7 +29,7 @@ MongoDB will also need to be added to the env PATH of your machine. For my machi
 
 3. Run `mongod` in a separate shell to keep an instance of the MongoDB Daemon running
 
-4. Run `grunt serve` to start the development server. It should automatically open the client in your browser when ready.
+4. Run `grunt serve` to start the development server. It should automatically and open the client in your browser when ready.
 
 ## Build & development
 
