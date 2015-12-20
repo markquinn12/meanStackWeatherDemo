@@ -11,8 +11,8 @@ This project was generated with the [Angular Full-Stack Generator](https://githu
 
 You will need a few installations to get up and running. I use [chocolatey](https://chocolatey.org/) and [NPM](https://www.npmjs.com/ ) where available:
 
-- [Git](https://git-scm.com/) ('choco install git.install')
-- [Node.js and npm](nodejs.org) Node ^4.2.3, npm ^2.14.7 ('choco install nodejs.install')
+- [Git](https://git-scm.com/) (`choco install git.install`)
+- [Node.js and npm](nodejs.org) Node ^4.2.3, npm ^2.14.7 (`choco install nodejs.install`)
 - [Bower](bower.io) (`npm install bower -g`)
 - [Grunt](http://gruntjs.com/) (`npm install grunt-cli -g`)
 - [MongoDB](https://www.mongodb.org/) - Keep a running daemon with `mongod`
